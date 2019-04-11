@@ -11,9 +11,13 @@
   "author": "sho",
   "license": "ISC",
   "devDependencies": {
+    "@types/uuid": "^3.4.4",
     "ts-loader": "^5.3.3",
     "typescript": "^3.4.3",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
   }
 }
